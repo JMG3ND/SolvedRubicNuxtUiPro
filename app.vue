@@ -2,7 +2,7 @@
   <div>
     <UHeader>
       <template #logo>
-        <NuxtImg class="w-36" src="logo-solvedrubik.png" alt="Logo" />
+        <AssetsLogo />
       </template>
       <template #right>
         <UColorModeButton />
